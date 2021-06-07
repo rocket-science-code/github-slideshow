@@ -3,6 +3,10 @@ layout: slide
 title: "Lou Reed - Walk on the Wild Side"
 ---
 
+Author: Loo Reed
+Song: Walk on the wild side
+Year: 1972
+
 Holly came from Miami, F.L.A.
 Hitch-hiked her way across the U.S.A.
 Plucked her eyebrows on the way
